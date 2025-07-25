@@ -47,7 +47,7 @@ nav a {
 }
 
 .hero {
-  background: url('https://images.unsplash.com/photo-1588776814546-1b4f6ac6e0b3?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+  background: url('pharmacy.jpg') no-repeat center center/cover;
   height: 80vh;
   display: flex;
   align-items: center;
