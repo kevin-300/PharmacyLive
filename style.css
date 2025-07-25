@@ -60,7 +60,7 @@ nav a {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(255, 255, 255, 0.7); /* light white overlay for readability */
+  background: url(istockphoto-1135284188-612x612.jpg);
 }
 
 .overlay-text {
